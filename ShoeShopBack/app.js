@@ -38,4 +38,12 @@ app.use(function(err, req, res, next) {
   res.render('error');
 });
 
+app.get('/error', function(req, res){
+  res.render('error', { title: 'Error Page', message: 'An error occurred', error: { status: '500', stack: 'Stack trace here' } });
+});
+
+app.listen(process.env.PORT || 3000, function(){
+  console.log("Express server listening on port %d in %s mode", this.address().port, app.settings.env);
+});
+
 module.exports = app;

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\iM a pRoGrAmMeR\\ShoeShop\\ShoeShopBack\\ShoeShopBack.csproj": {}
+    "D:\\iM a pRoGrAmMeR\\ShoeShop\\ShoeShopBackBranch\\ShoeShopBack\\ShoeShopBack.csproj": {}
   },
   "projects": {
-    "D:\\iM a pRoGrAmMeR\\ShoeShop\\ShoeShopBack\\ShoeShopBack.csproj": {
+    "D:\\iM a pRoGrAmMeR\\ShoeShop\\ShoeShopBackBranch\\ShoeShopBack\\ShoeShopBack.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\iM a pRoGrAmMeR\\ShoeShop\\ShoeShopBack\\ShoeShopBack.csproj",
+        "projectUniqueName": "D:\\iM a pRoGrAmMeR\\ShoeShop\\ShoeShopBackBranch\\ShoeShopBack\\ShoeShopBack.csproj",
         "projectName": "ShoeShopBack",
-        "projectPath": "D:\\iM a pRoGrAmMeR\\ShoeShop\\ShoeShopBack\\ShoeShopBack.csproj",
+        "projectPath": "D:\\iM a pRoGrAmMeR\\ShoeShop\\ShoeShopBackBranch\\ShoeShopBack\\ShoeShopBack.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\iM a pRoGrAmMeR\\ShoeShop\\ShoeShopBack\\obj\\",
+        "outputPath": "D:\\iM a pRoGrAmMeR\\ShoeShop\\ShoeShopBackBranch\\ShoeShopBack\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
